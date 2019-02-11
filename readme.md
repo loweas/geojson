@@ -13,6 +13,13 @@ region-simplified.json| 371|
 regions-topo.json| 65|
 
 
+      name size(kb)
+      
+      regions.geojson 3000 or 3MB
+      region-simplified.json 371
+      regions-topo.json 65
+
+
 
 
 
